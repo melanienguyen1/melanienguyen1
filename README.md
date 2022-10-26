@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melanienguyen1
-- 🌱 I’m currently learning PYTHON and JAVA
+- 🌱 I’m currently learning Python and MySQL
 
 <!---
 melanienguyen1/melanienguyen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
