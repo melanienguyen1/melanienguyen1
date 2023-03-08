@@ -1,4 +1,4 @@
-Hi :), my name is Melanie Nguyen and I am aspiring data analyst seeking for a jump start in my career! 
+Hi :) my name is Melanie Nguyen and I am aspiring data analyst seeking for a jump start in my career! 
 
 I am studying Computer Information Systems at the University of Houston. Developing my database management skills, web development skills, and my business analytical skills. All the while, practicing and learning more technical skills on my own time.
 
